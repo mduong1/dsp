@@ -74,6 +74,27 @@ _______
 
 google link is [Google](http://www.google.com/).
 
+Block code that is non-specific:
+print "hello world!"
+print "hello moon"
+Block code that is python-specific:
+print("hello world!")
+print("hello moon")
+bash or console
+Block code that is non-specific:
+$ git status
+$ git remote -v
+Block code that is bash-specific:
+$ git status
+$ git remote -v
+
+$ ps awx | grep mongo
+sql
+Block code that is non-specific:
+SELECT * FROM Customers WHERE Country='Sweden';
+Block code that is sql-specific:
+SELECT * FROM Customers WHERE Country='Sweden';
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
