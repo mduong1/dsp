@@ -59,3 +59,22 @@ What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emo
 
 :fireworks:
 
+this is line 1  this is line 2
+this is line 1 '''this is line 2'''
+this is line 1 <br> this is line 2
+
+line1
+-------
+line2
+*******
+line3
+_______
+
+:smiley:
+
+google link is [Google](http://www.google.com/).
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
